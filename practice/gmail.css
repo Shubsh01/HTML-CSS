@@ -1,0 +1,61 @@
+.outerbox{
+    width: 360px;
+    box-shadow: 1px 2px 5px rgba(0,0,0,0.5);
+}
+
+.all{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+    /* border: 3px solid darkblue; */
+}
+
+body,p{
+    margin: 0;
+}
+
+.chewy{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.dp{
+    height : 40px ;
+    border-radius: 20px;
+}
+
+.chewy-div{
+    display: inline-block;
+    margin-bottom: 2px;
+}
+
+.time{
+    display: inline-block;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 14px;
+}
+
+.big{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 1px;
+}
+
+.msg{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}

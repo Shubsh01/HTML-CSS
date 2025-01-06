@@ -1,0 +1,47 @@
+.flex{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+    width: 300px;
+    align-items: center;
+    margin-bottom: 0px;
+}
+.dp{
+    height: 50px;
+    border-radius: 50px;
+}
+
+p{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.breed{
+    font-size: 16px;
+    color: gray;
+}
+
+.popular{
+    font-size: 14px;
+    color: gray;
+}
+
+.names-flex{
+    margin-left: 0px;
+    width: 170px;
+}
+
+.button{
+    padding: 5px 10px 5px 10px;
+    border-radius: 2px;
+    border: none;
+    background-color: rgb(64,147,240);
+    color: white;
+}
